@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bb1/async-fetch-example#readme",
   "devDependencies": {
     "fuse-box": "^3.7.1",
+    "node-sass": "^4.13.0",
     "terser": "^4.4.3",
     "typescript": "^3.7.3",
     "uglify-js": "^3.7.2"
