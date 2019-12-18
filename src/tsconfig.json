@@ -6,6 +6,9 @@
     "baseUrl": ".",
     "importHelpers": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "lib": [
+      "ES2019", "DOM"
+    ]
   }
 }
