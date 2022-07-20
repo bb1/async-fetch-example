@@ -19,7 +19,7 @@
   "devDependencies": {
     "fuse-box": "^3.7.1",
     "node-sass": "^4.13.0",
-    "terser": "^4.4.3",
+    "terser": "^4.8.1",
     "typescript": "^3.7.3",
     "uglify-js": "^3.7.2"
   }
